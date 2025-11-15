@@ -14,16 +14,16 @@ public class SentenciaIfElse {
 //            System.out.println("Que tarugo");
 //        }
 
-        float promedio =3.0f;
+        float promedio = 5.5f;
         if (promedio >= 6.5) {
             System.out.println("Excelente promedio");
         } else if (promedio >= 6.0) {
             System.out.println("Excelente muy mejor promedio");
-        }else if (promedio >= 5.0) {
+        } else if (promedio >= 5.0) {
             System.out.println("Regular promedio");
-        }else if (promedio >= 4.0) {
+        } else if (promedio >= 4.0) {
             System.out.println("Tarugo");
-        }else {
+        } else {
             System.out.println("Vas pa fuera tarugo");
         }
 
